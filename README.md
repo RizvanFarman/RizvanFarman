@@ -2,13 +2,13 @@
 
 #### I'm Rizvan, a Software Engineer based in West Yorkshire, UK.
 
-##### What have I been up to?
+##### What have I been up to lately?
 
 - 🏫 Last built BTEC Grade Calculator (https://github.com/rizvancodes/BTEC-Grade-Calculator)
 - 🎓 Completed CS50 on OpenCourseWare
 - 💻 Working on HyperionDev Software Engineering Bootcamp
 
-##### BIO
+##### Bio
 
 - 🧬 I'm currently working as a **STEM Teacher**
 - ⌨️ I use daily: `Python`, `C`, `HTML`, `CSS`, `Ruby`, `SQL`, `OOP`
