@@ -6,7 +6,7 @@
 
 - 🏫 Last built BTEC Grade Calculator (https://github.com/rizvancodes/BTEC-Grade-Calculator)
 - 🎓 Completed CS50 on OpenCourseWare
-- 💻 Working on HyperionDev Software Engineering Bootcamp
+- 💻 Graduated HyperionDev Software Engineering Bootcamp. Ranking in the top 1% of the cohort.
 
 ##### Bio
 
