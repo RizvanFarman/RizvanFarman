@@ -10,7 +10,7 @@
 
 ##### Bio
 
-- 🧬 I'm currently working as a **STEM Teacher**
+- 🧬 I'm currently working as a **STEM Teacher in a Sixth Form College**
 - ⌨️ I use daily: `Python`, `C`, `HTML`, `CSS`, `Ruby`, `SQL`, `OOP`
 - 🏗️ I have built using the frameworks `Flask`, `Django`, `Bootstrap`
 - ☁️ Currently learning about **AWS**
