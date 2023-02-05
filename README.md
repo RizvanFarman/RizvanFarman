@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Rizvan 👋
 
-#### I'm Rizvan, a Software Engineer based in West Yorkshire, UK.
+#### I'm a Software Engineer based in West Yorkshire, UK.
 
 ##### What have I been up to lately?
 
