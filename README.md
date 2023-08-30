@@ -10,10 +10,10 @@
 
 ##### Bio
 
-- 🧬 I'm currently working as a **STEM Teacher in a Sixth Form College**
-- ⌨️ I use daily: `Python`, `C`, `HTML`, `CSS`, `Ruby`, `SQL`, `OOP`
-- 🏗️ I have built using the frameworks `Flask`, `Django`, `Bootstrap`
-- ☁️ Currently learning about **AWS**
+- 🧬 I'm currently working as a **Software Engineer**
+- ⌨️ I use daily: `Java`, `Spring`, `Linux`, `Git`, `Make`, `SQL`
+- 🏗️ I have built using the frameworks `Spring`, `Flask`, `React`
+- ☁️ Currently learning about **Java**
 - 💬 Interested in **Clean Code**, **Agile**, **Cloud**, **DevOps**, **Design Patterns**, **CI/CD**
 - 📫 Reach me: [linkedin.com/in/rizvan-ali/](https://www.linkedin.com/in/rizvan-ali/)
 - ⚡️ Fun fact: I learnt to fly a plane before I could drive a car
