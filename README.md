@@ -11,8 +11,8 @@
 ##### Bio
 
 - 🧬 I'm currently working as a **Software Engineer**
-- ⌨️ I use daily: `Java`, `Spring`, `JavaScript`, `TypeScript`,`Linux`, `Git`, `Make`, `SQL`
-- 🏗️ I have built using the frameworks `Spring`, `Flask`, `React`, `Angular
+- ⌨️ I use daily: `Java`, `JavaScript`, `TypeScript`, `Python`, `Linux`, `Git`, `Make`, `SQL`
+- 🏗️ I have built using the frameworks `Spring`, `Flask`, `React`, `Angular`
 - ☁️ Currently learning about **Java/Spring and TypeScript/Angular**
 - 💬 Interested in **Clean Code**, **Agile**, **Cloud**, **DevOps**, **Design Patterns**, **CI/CD**
 - 📫 Reach me: [linkedin.com/in/rizvan-ali/](https://www.linkedin.com/in/rizvan-ali/)
