@@ -4,9 +4,10 @@
 
 ##### What have I been up to lately?
 
+- 🧩 Currently working through Advent of Code 2023 using `JavaScript`
 - 🏫 Last built BTEC Grade Calculator (https://github.com/rizvancodes/BTEC-Grade-Calculator)
 - 🎓 Completed CS50 on OpenCourseWare
-- 💻 Graduated HyperionDev Software Engineering Bootcamp. Ranking in the top 1% of the cohort.
+- 💻 Graduated Imperial College London Software Engineering Bootcamp. Ranking in the top 1% of the cohort.
 
 ##### Bio
 
