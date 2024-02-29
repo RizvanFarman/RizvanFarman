@@ -12,7 +12,7 @@
 ##### Bio
 
 - 🧬 I'm currently working as a **Software Engineer**
-- ⌨️ I use daily: `Java`, `JavaScript`, `TypeScript`, `Python`, `Linux`, `Git`, `Make`, `SQL`
+- ⌨️ I use daily: `Java`, `JavaScript`, `TypeScript`, `Python`, `Linux`, `Git`, `Make`, `PostgreSQL`
 - 🏗️ I have built using the frameworks `Spring`, `Flask`, `React`, `Angular`
 - ☁️ Currently learning about **Java/Spring and TypeScript/Angular**
 - 💬 Interested in **Clean Code**, **Agile**, **Cloud**, **DevOps**, **Design Patterns**, **CI/CD**
